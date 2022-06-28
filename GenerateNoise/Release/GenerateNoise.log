@@ -1,0 +1,16 @@
+﻿  Main.cpp
+D:\VolumetricCloud\GenerateNoise\GenerateNoise\Main.cpp(27,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\VolumetricCloud\GenerateNoise\GenerateNoise\Main.cpp(47,67): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VolumetricCloud\GenerateNoise\GenerateNoise\Main.cpp(47,106): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VolumetricCloud\GenerateNoise\GenerateNoise\Main.cpp(47,26): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\VolumetricCloud\GenerateNoise\GenerateNoise\Main.cpp(49,61): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  1 of 135 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GenerateNoise.vcxproj -> D:\VolumetricCloud\GenerateNoise\Release\GenerateNoise.exe
